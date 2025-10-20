@@ -1,4 +1,14 @@
-## Hi there 👋
+# 🌸 Hi, I'm Trọng
+🚀 Frontend Developer | Learning React & Node.js  
+
+## 🧩 Featured Projects
+- [🌦️ Weather Web](https://github.com/qtrong0205/weather-web)
+- [✅ Task Manager (Naver Hackathon)](https://github.com/qtrong0205/todo-list-hackathon)
+- [📝 To-do List](https://github.com/qtrong0205/todo-web)
+
+👇 More projects in pinned section below!
+
+
 
 <!--
 **qtrong0205/qtrong0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
