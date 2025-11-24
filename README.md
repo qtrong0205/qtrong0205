@@ -2,9 +2,9 @@
 🚀 Frontend Developer | Learning React & Node.js  
 
 ## 🧩 Featured Projects
+- [📝 Movie AI Recommendation](https://github.com/Vu-Quoc-Tuan/Movie-Recommendation)
 - [🌦️ Weather Web](https://github.com/qtrong0205/weather-web)
 - [✅ Task Manager (Naver Hackathon)](https://github.com/qtrong0205/todo-list-hackathon)
-- [📝 To-do List](https://github.com/qtrong0205/todo-web)
 
 👇 More projects in pinned section below!
 
